@@ -1,3 +1,3 @@
 # Kokoa-clone-2024
 
-CSS and HTML gogo
+I will develop the ability to write CSS and HTML
